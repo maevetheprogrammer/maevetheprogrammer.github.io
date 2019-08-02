@@ -1,0 +1,40 @@
+body {
+  background-color: #9933ff;
+  margin-bottom: 1px;
+  margin-top: 15px;
+  padding: 10px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+
+img{
+  width: 270px;
+  border: 1px solid #9933ff;
+  transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.center {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.color {
+  color:#d9d9d9;font-size:15px;
+}
+
+.color2 {
+  color:#d9d9d9;font-size:30px;
+}
